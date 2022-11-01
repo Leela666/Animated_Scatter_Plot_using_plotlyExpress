@@ -20,3 +20,7 @@ As a result we got the graph like the image uploaded here.
 By the graph we came to a conclusion that,
 
 Many students are happy with their department and they are having less stress.
+
+colab link is given here to view the graph
+
+https://colab.research.google.com/drive/1jD5EVWwp1L9EPpJEtNYm1ChdWUSz1eNc?usp=sharing
